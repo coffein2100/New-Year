@@ -1,0 +1,17 @@
+body {
+    font-family: 'Rubik Beastly', cursive;
+    color: blue;
+}
+
+.uk-article-title {
+    font-family: 'Rubik Beastly', cursive;
+    color: blue;
+}
+
+.uk-navbar-container:not(.uk-navbar-transparent) {
+    margin-bottom: 0;
+}
+
+.uk-position-relative {
+    margin: 0 auto;
+}
